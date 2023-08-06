@@ -1,0 +1,27 @@
+Ejercicio 2
+
+Para la realización del ejericio se ha utilizado: 
+	Netbeans 8.2
+	Java 8
+	Librería db4o-8.0.249.16098-all-java5 para la base de datos Db4o
+
+El programa se divide en varios paquetes:
+	Leeme:
+	    Contiene este archivo de lectura.
+	Resources:
+	    Contiene los recursos de imagenes que se han utilizado en el programa
+	Controller:
+	    El paquete contiene la parte lógica del programa, la cual se encarga de realizar y controlar todos los eventos
+	    que deseamos que realize nuestro programa.
+
+	Model:
+	    Este paquete contiene las clases de los objetos que vamos a utilizar con sus atributos de clase, contructores, gettters y setters.
+	    
+	View:
+	    Contiene la parte gráfica de cada pantalla que se crea para el funcionamiento del programa y en algunos casos se le agrega alguna parte de código de eventos.
+
+Funcionamiento del programa:
+    
+    El programa se ejecuta desde la carpeta view y con la clase Biblioteca.view que contiene el main para el funcionamiento del programa y desde esta clase principal realizamos
+    el funcionamiento de las diferentes acciones que realiza nuestro programa, ya sea para agregar libros y autores o para realizar diferentes consultas. Cada una de estas acciones
+    las realizaremos desde diferentes formularios.

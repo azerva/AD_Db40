@@ -1,0 +1,24 @@
+SELECCIONE NACIONALIDAD....
+SIN DEFINIR.
+Italia	
+España	
+Francia	
+Portugal	
+Alemania	
+Reino Unido	
+Suiza	
+Suecia	
+Finlandia	
+Noruega	
+Irlanda	
+Grecia	
+Austria	
+Rusia	
+Eslovaquia	
+Eslovenia	
+Polonia	
+Ucrania	
+Mónaco	
+Luxemburgo	
+Letonia	
+Croacia	
